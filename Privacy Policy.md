@@ -4,7 +4,7 @@
 
 **Last updated: 2025-09-06**
 
-## Remember##
+## Remember ##
 You must follow [Discord’s Terms of Service](https://discord.com/terms) and [Community Guidelines](https://discord.com/guidelines)
 
 
